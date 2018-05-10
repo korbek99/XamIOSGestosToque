@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamIOSGestosToque", "XamIOSGestosToque\XamIOSGestosToque.csproj", "{A570AB54-3DA8-4E90-BD52-E230D14A2866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A570AB54-3DA8-4E90-BD52-E230D14A2866}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A570AB54-3DA8-4E90-BD52-E230D14A2866}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A570AB54-3DA8-4E90-BD52-E230D14A2866}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A570AB54-3DA8-4E90-BD52-E230D14A2866}.Release|iPhone.Build.0 = Release|iPhone
+		{A570AB54-3DA8-4E90-BD52-E230D14A2866}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A570AB54-3DA8-4E90-BD52-E230D14A2866}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{A570AB54-3DA8-4E90-BD52-E230D14A2866}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A570AB54-3DA8-4E90-BD52-E230D14A2866}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
